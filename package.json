@@ -1,0 +1,28 @@
+{
+    "name": "eslint-dimacpp",
+    "version": "1.0.0",
+    "keywords": [
+        "eslint",
+        "nodejs",
+        "style"
+    ],
+    "license": "MIT",
+    "author": "dimacpp <dimacpp@gmail.com>",
+    "main": "index.js",
+    "files": [
+        "index.js",
+        "README.md",
+        "LICENSE"
+    ],
+    "bugs": {
+        "url": "https://github.com/dimacpp/eslint-dimacpp/issues"
+    },
+    "homepage": "https://github.com/dimacpp/eslint-dimacpp",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimacpp/eslint-dimacpp.git"
+    },
+    "peerDependencies": {
+        "eslint": ">=5.3"
+    }
+}
