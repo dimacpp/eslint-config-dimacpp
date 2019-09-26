@@ -7,7 +7,7 @@ ESLint sharable config.
 
 
 ```shell
-npm install --save-dev eslint-dimacpp
+npm install --save-dev eslint-config-dimacpp
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install --save-dev eslint-dimacpp
 
 ```json
 {
-    "extends": "eslint-dimacpp"
+    "extends": "eslint-config-dimacpp"
 }
 ```
 

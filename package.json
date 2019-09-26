@@ -1,5 +1,5 @@
 {
-    "name": "eslint-dimacpp",
+    "name": "eslint-config-dimacpp",
     "version": "1.0.0",
     "keywords": [
         "eslint",
@@ -15,12 +15,12 @@
         "LICENSE"
     ],
     "bugs": {
-        "url": "https://github.com/dimacpp/eslint-dimacpp/issues"
+        "url": "https://github.com/dimacpp/eslint-config-dimacpp/issues"
     },
-    "homepage": "https://github.com/dimacpp/eslint-dimacpp",
+    "homepage": "https://github.com/dimacpp/eslint-config-dimacpp",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dimacpp/eslint-dimacpp.git"
+        "url": "https://github.com/dimacpp/eslint-config-dimacpp.git"
     },
     "peerDependencies": {
         "eslint": ">=5.3"
