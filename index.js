@@ -195,5 +195,6 @@ module.exports = {
     'class-methods-use-this': 'warn',
     'prefer-promise-reject-errors': 'warn',
     'space-infix-ops': 'warn',
+    'prefer-const': 'warn',
   }
 };
