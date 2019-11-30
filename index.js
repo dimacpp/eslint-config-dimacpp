@@ -196,5 +196,17 @@ module.exports = {
     'prefer-promise-reject-errors': 'warn',
     'space-infix-ops': 'warn',
     'prefer-const': 'warn',
+    'space-in-parens': [
+      'warn',
+      'never',
+    ],
+    'space-before-function-paren': [
+      'warn',
+      {
+      'anonymous': 'always',
+      'named': 'never',
+      'asyncArrow': 'always',
+      }
+    ],
   }
 };
